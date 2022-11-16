@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.surrey.ac.uk/">
+  <channel>
+    <title>News list</title>
+    <link>https://www.surrey.ac.uk/</link>
+    <description>Latest news from the University of Surrey</description>
+    <language>en</language>
+    
+    <item>
+  <title>Sustainability at Surrey: COP27 Water Day</title>
+  <link>https://www.surrey.ac.uk/news/sustainability-surrey-cop27-water-day</link>
+  <description/>
+  <pubDate>Fri, 11 Nov 2022 16:51:41 +0000</pubDate>
+    <dc:creator>tb0045</dc:creator>
+    <guid isPermaLink="false">215227 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Surrey Pioneers</title>
+  <link>https://www.surrey.ac.uk/news/surrey-pioneers</link>
+  <description/>
+  <pubDate>Fri, 11 Nov 2022 13:00:00 +0000</pubDate>
+    <dc:creator>pb0057</dc:creator>
+    <guid isPermaLink="false">214867 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Frequently asked questions </title>
+  <link>https://www.surrey.ac.uk/news/frequently-asked-questions</link>
+  <description/>
+  <pubDate>Fri, 11 Nov 2022 10:08:11 +0000</pubDate>
+    <dc:creator>ep0040</dc:creator>
+    <guid isPermaLink="false">215158 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Funding boost to advance UK as leader in sustainable chemical manufacturing using AI </title>
+  <link>https://www.surrey.ac.uk/news/funding-boost-advance-uk-leader-sustainable-chemical-manufacturing-using-ai</link>
+  <description/>
+  <pubDate>Thu, 10 Nov 2022 14:19:57 +0000</pubDate>
+    <dc:creator>ki0002</dc:creator>
+    <guid isPermaLink="false">215128 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Sustainability at Surrey: COP27 Solutions Day</title>
+  <link>https://www.surrey.ac.uk/news/sustainability-surrey-cop27-solutions-day</link>
+  <description/>
+  <pubDate>Thu, 10 Nov 2022 13:34:45 +0000</pubDate>
+    <dc:creator>tb0045</dc:creator>
+    <guid isPermaLink="false">215110 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>New technology creates carbon neutral chemicals out of thin air </title>
+  <link>https://www.surrey.ac.uk/news/new-technology-creates-carbon-neutral-chemicals-out-thin-air</link>
+  <description/>
+  <pubDate>Thu, 10 Nov 2022 13:27:30 +0000</pubDate>
+    <dc:creator>ki0002</dc:creator>
+    <guid isPermaLink="false">215119 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Sustainability at Surrey: COP27 Decarbonization Day</title>
+  <link>https://www.surrey.ac.uk/news/sustainability-surrey-cop27-decarbonization-day</link>
+  <description/>
+  <pubDate>Thu, 10 Nov 2022 13:16:55 +0000</pubDate>
+    <dc:creator>tb0045</dc:creator>
+    <guid isPermaLink="false">215107 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Research points to positive mental health outcomes for young people who have attended university </title>
+  <link>https://www.surrey.ac.uk/news/research-points-positive-mental-health-outcomes-young-people-who-have-attended-university</link>
+  <description/>
+  <pubDate>Thu, 10 Nov 2022 11:08:52 +0000</pubDate>
+    <dc:creator>gm0033</dc:creator>
+    <guid isPermaLink="false">215083 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>Sustainability at Surrey: COP27 Adaptation &amp; Agriculture Day</title>
+  <link>https://www.surrey.ac.uk/news/sustainability-surrey-cop27-adaptation-agriculture-day</link>
+  <description/>
+  <pubDate>Wed, 09 Nov 2022 13:47:28 +0000</pubDate>
+    <dc:creator>m06148</dc:creator>
+    <guid isPermaLink="false">215053 at https://www.surrey.ac.uk</guid>
+    </item>
+<item>
+  <title>What you need to know about studying modern languages</title>
+  <link>https://www.surrey.ac.uk/news/what-you-need-know-about-studying-modern-languages</link>
+  <description/>
+  <pubDate>Tue, 08 Nov 2022 15:23:29 +0000</pubDate>
+    <dc:creator>ep0040</dc:creator>
+    <guid isPermaLink="false">207721 at https://www.surrey.ac.uk</guid>
+    </item>
+
+  </channel>
+</rss>
